@@ -6,8 +6,7 @@ Projeto desenvolvido com HTML, CSS e JavaScript com o objetivo de apresentar meu
 
 - HTML5 (estrutura semântica)
 - CSS3 (estilização e responsividade)
-- JavaScript (manipulação do DOM e interatividade)
-
+- JavaScript (manipulação do DOM e interatividade) 
 ## ✨ Funcionalidades
 
 - Navegação por âncoras
